@@ -290,7 +290,7 @@ def filter_by_distance_preference(
             return df[(df["distance_km"] > 800) & (df["distance_km"] <= 1800)]
 
         if preferred_distance == "far":
-            # farthest EU destinations (e.g. Greece, Portugal, etc.)
+            # farthest EU destinations ( Greece, Portugal, etc.)
             return df[df["distance_km"] > 1800]
 
         return df  # fallback if weird value
