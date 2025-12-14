@@ -12,6 +12,7 @@ This project is a **Mamdani-style fuzzy inference system** that recommends trave
 The fuzzy system combines these factors and outputs a **suitability score in [0, 100]** for each country, then shows the top-ranked destinations in a **Streamlit web app**.
 
 ---
+[Survey.pdf](https://github.com/user-attachments/files/24151852/Survey.pdf)
 
 ## Project structure
 
