@@ -1,3 +1,4 @@
+# Planning a Vacation
 # Fuzzy Travel Recommendation System
 
 This project is a **Mamdani-style fuzzy inference system** that recommends travel destinations based on:
